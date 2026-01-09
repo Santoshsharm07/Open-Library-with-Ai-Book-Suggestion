@@ -1,0 +1,177 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Fiction",
+      "description": "A classic novel about the American Dream and the Roaring Twenties",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/0743273567-L.jpg"
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Fiction",
+      "description": "A story about racial injustice and moral growth in the American South",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/0061120081-L.jpg"
+    },
+    {
+      "id": "3",
+      "title": "The Shining",
+      "author": "Stephen King",
+      "category": "Horror",
+      "description": "A family becomes caretakers of a haunted hotel, leading to terrifying consequences",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/0307743659-L.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "description": "An epic fantasy adventure about the battle between good and evil in Middle-earth",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/0618640150-L.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "category": "Fantasy",
+      "description": "A young boy discovers he is a wizard and begins his journey at Hogwarts School of Witchcraft and Wizardry",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/059035342X-L.jpg"
+    },
+    {
+      "id": "6",
+      "title": "It",
+      "author": "Stephen King",
+      "category": "Horror",
+      "description": "A group of friends confronts a shape-shifting evil that preys on children in their small town",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/1501142976-L.jpg"
+    },
+    {
+      "id": "7",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "description": "A hobbit named Bilbo Baggins embarks on an unexpected adventure to reclaim a treasure from a dragon",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/054792822X-L.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "category": "Horror",
+      "description": "The classic tale of the vampire Count Dracula and his quest to spread his curse to England",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/0451527182-L.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "category": "Horror",
+      "description": "A scientist creates a living being from dead tissue, with terrifying consequences",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/0486282112-L.jpg"
+    },
+    {
+      "id": "10",
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "author": "C.S. Lewis",
+      "category": "Fantasy",
+      "description": "Four siblings discover a magical wardrobe that leads to the enchanted land of Narnia",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/0064404994-L.jpg"
+    },
+    {
+      "id": "11",
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "category": "Fantasy",
+      "description": "The first book in the epic fantasy series about power struggles in the Seven Kingdoms",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/0553103547-L.jpg"
+    },
+    {
+      "id": "12",
+      "title": "The Silence of the Lambs",
+      "author": "Thomas Harris",
+      "category": "Horror",
+      "description": "An FBI trainee seeks the help of a brilliant psychiatrist and cannibalistic serial killer to catch another killer",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/0316324077-L.jpg"
+    },
+    {
+      "id": "13",
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Fiction",
+      "description": "A dystopian novel about a totalitarian society where individualism is suppressed",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/0451524934-L.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Fiction",
+      "description": "A classic romance novel about the Bennet sisters and their quest for love and marriage",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/0141439513-L.jpg"
+    },
+    {
+      "id": "15",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "category": "Mystery",
+      "description": "A symbologist and cryptologist uncover a conspiracy involving the Catholic Church and the Holy Grail",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/0385504209-L.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Fiction",
+      "image": "https://covers.openlibrary.org/b/isbn/0061120081-L.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Non-Fiction",
+      "image": "https://covers.openlibrary.org/b/isbn/0374533555-L.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Science",
+      "image": "https://covers.openlibrary.org/b/isbn/0393061348-L.jpg"
+    },
+    {
+      "id": "4",
+      "name": "History",
+      "image": "https://covers.openlibrary.org/b/isbn/0143127741-L.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Horror",
+      "image": "https://covers.openlibrary.org/b/isbn/0307743659-L.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Fantasy",
+      "image": "https://covers.openlibrary.org/b/isbn/059035342X-L.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Mystery",
+      "image": "https://covers.openlibrary.org/b/isbn/0385504209-L.jpg"
+    }
+  ],
+  "borrowedBooks": []
+}
