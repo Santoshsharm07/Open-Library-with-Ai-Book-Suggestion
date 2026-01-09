@@ -33,6 +33,5 @@ open library is a modern library management system designed to streamline the pr
 
 
 
-## 🔗 Links
-Live Link : https://open-librarian.web.app/
+
 
