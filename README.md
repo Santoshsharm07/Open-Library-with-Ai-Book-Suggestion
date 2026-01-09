@@ -211,15 +211,3 @@ Contributions are welcome! Please follow these steps:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🌐 Live Demo
-
-Check out the live demo at: [https://open-librarian.web.app/](https://open-librarian.web.app/)
-
-## 📞 Support
-
-For any issues or questions, please open an issue on the GitHub repository or contact the project maintainer.
-
----
-
-**Open Library with AI Book Suggestion** - Empowering libraries with modern technology and AI-driven insights.
